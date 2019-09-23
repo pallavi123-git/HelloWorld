@@ -10,9 +10,9 @@
 
      "type" : "scbuild",
 
-     "buildstart" :1569231726,
+     "buildstart" :1569232057,
 
-     "buildend" :1569232726,
+     "buildend" :1569233057,
 
      "buildresult" : "PASS",
 
