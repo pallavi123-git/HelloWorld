@@ -16,7 +16,7 @@
 
      "buildresult" : "PASS",
 
-     "buildurl" : "$BUILD_URL",
+     "buildurl" : "url1",
 
      "buildlinks" : [
           
@@ -24,7 +24,7 @@
                      
 		"name" : "URL",
 
-                "link" : "$BUILD_URL"
+                "link" : "url1"
 
          },
 
@@ -32,7 +32,7 @@
 
                  "name" : "Line_CoverageURL",
 
-                 "link" : "$BUILD_URL/CC++_Code_HTML_Report
+                 "link" : "url1/CC++_Code_HTML_Report
 "
  
         },
@@ -41,7 +41,7 @@
 
                   "name" : "Function_CoverageURL",
 
-                  "link" : "BUILD_URL/CC++_Code_HTML_Report
+                  "link" : "url1/CC++_Code_HTML_Report
 "
 
           }
