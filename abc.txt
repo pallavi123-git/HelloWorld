@@ -1,0 +1,55 @@
+{
+    
+     "buildid" : "TD_102",
+
+     "bl" : "MEC001",
+
+     "product" : "UEC001",
+
+     "branch" : "TEST001",
+
+     "type" : "scbuild",
+
+     "buildstart" :1569209144,
+
+     "buildend" :1569219144,
+
+     "buildresult" : "PASS",
+
+     "buildurl" : "$BUILD_URL
+",
+
+     "buildlinks" : [
+          
+   	{	
+                     
+		"name" : "URL",
+
+                "link" : "$BUILD_URL"
+
+         },
+
+         {
+
+                 "name" : "Line_CoverageURL",
+
+                 "link" : "$BUILD_URL/CC++_Code_HTML_Report
+"
+ 
+        },
+	     
+	 {
+
+                  "name" : "Function_CoverageURL",
+
+                  "link" : "$BUILD_URL/CC++_Code_HTML_Report
+"
+
+          }
+
+     ],
+
+ 
+    "rollback":"NO"
+
+}
