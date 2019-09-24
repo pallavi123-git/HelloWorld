@@ -1,0 +1,59 @@
+[ 
+	{
+	    "name" : "tdd-fzm",
+
+        "product" : "UEC001",
+
+        "branch" : "TEST001",
+
+        "end" : 1568779900,
+
+        
+ start" : 1568778900,
+
+        "buildid" : "id1",
+
+        "total_count" : 78,
+
+      
+  "pass_count" : 78,
+        "fail_count" : 0,
+
+        "bl" : "MEC001",
+
+        "test_hierarchy" : "UT;FIRST_TESTSUITE",
+
+        "USER_SET_STATE":"UT",
+
+        "cases" : [ {
+
+                        "failcount" : 0,
+
+                        "start" : 1568778900,
+
+                        "url" : "url1",
+
+                        "end" : 1568779900,
+   
+                        "name" : "testcase1",
+   
+                        "featureid" : [ ],
+ 
+                        "passcount" : 1,
+
+                        "result" : "PASS"
+ 
+               }
+        ],
+
+        "exec_frequency" : "buildly",
+
+        "type" : "scbuild",
+
+        "result_url" : "url1/CC++_Code_HTML_Report"
+
+    }
+ 
+   
+
+]
