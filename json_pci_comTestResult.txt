@@ -1,0 +1,33 @@
+[ {    "name" : "$name",
+        "product" : "$product",
+        "branch" : "$branch",
+        "end" : $end,
+        
+        "start" : $start,
+        "buildid" : "$buildid",
+        "total_count" : $total_count,
+       
+        "pass_count" : $pass_count,
+        
+        "fail_count" : $fail_count,
+        "bl" : "$bl",
+        "test_hierarchy" : "$test_type;FIRST_TESTSUITE",
+        "USER_SET_STATE":"$test_type",
+        "cases" : [{
+                        "failcount" : 0,
+                        "start" : $start,
+                        "url" : "url1",
+                        "end" : $end,
+                        "name" : "testcase1",
+                        "featureid" : [ ],
+                        "passcount" : 1,
+                        "result" : "PASS"
+                }
+        ],
+        "exec_frequency" : "buildly",
+        "type" : "scbuild",
+        "result_url" : "url1/CC++_Code_HTML_Report"
+    }
+    
+
+]

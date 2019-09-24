@@ -1,0 +1,24 @@
+{
+     "buildid" : "$buildid",
+     "bl" : "$bl",
+     "product" : "$product",
+     "branch" : "$branch",
+     "type" : "$type",
+     "buildstart" : $start,
+     "buildend" : $end,
+     "buildresult" : "$buildresult",
+     "buildurl" : "url1",
+     "buildlinks" : [
+            
+             {
+                     "name" : "Line_CoverageURL",
+                     "link" : "Link1/CC++_Code_HTML_Report"
+             },
+             { 
+                     "name" : "Function_CoverageURL",
+                     "link" : "Link2/CC++_Code_HTML_Report"
+             }
+     ],
+     
+    "rollback":"NO"
+}
