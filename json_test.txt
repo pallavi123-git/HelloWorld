@@ -1,6 +1,6 @@
 [ 
 	{
-	    "name" : "tdd-fzm",
+	   "name" : "tdd-fzm",
 
         "product" : "UEC001",
 
@@ -11,7 +11,7 @@
         
  start" : 1568778900,
 
-        "buildid" : "id1",
+        "buildid" : "$BUILD_ID",
 
         "total_count" : 78,
 
@@ -31,7 +31,7 @@
 
                         "start" : 1568778900,
 
-                        "url" : "url1",
+                        "url" : "$BUILD_URL",
 
                         "end" : 1568779900,
    
@@ -50,7 +50,7 @@
 
         "type" : "scbuild",
 
-        "result_url" : "url1/CC++_Code_HTML_Report"
+        "result_url" : "$BUILD_URL/CC++_Code_HTML_Report"
 
     }
  
