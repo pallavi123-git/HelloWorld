@@ -1,0 +1,14 @@
+{
+     "buildid" : "LA_QR.5.0.0.307.0.19.226",
+     "bl" : "MN_CRAN",
+     "product" : "MEC",
+     "branch" : "CBAM",
+     "type" : "scbuild",
+     "buildstart" : 1569299014,
+     "buildend" : 156930014,
+     "buildresult" : "PASS",
+     "buildurl" : "url1",
+
+     "rollback":"NO",
+     "workAround": "xxxx"
+}
